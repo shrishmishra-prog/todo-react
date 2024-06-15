@@ -18,7 +18,7 @@ class App extends Component {
 			userInput: "", 
 			list: [], 
 		}; 
-	} 
+} 
 
 	// Set a user input value 
 	updateInput(value) { 
